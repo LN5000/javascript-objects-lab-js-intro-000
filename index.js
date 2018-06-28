@@ -1,1 +1,1 @@
-var meals = new Object();
+var recipes = new Object();
